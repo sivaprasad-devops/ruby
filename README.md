@@ -3,4 +3,4 @@
 puts "Hello, Ruby!"
 ```
 ---
-Ruby Tutorial link [here](https://www.javatpoint.com/ruby-tutorial)
+Ruby Tutorial: [click here](https://www.javatpoint.com/ruby-tutorial)
