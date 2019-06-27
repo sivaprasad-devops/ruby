@@ -1,2 +1,4 @@
 # ruby
-`This is for ruby practice`
+```ruby
+puts "Hello, Ruby!"
+```
